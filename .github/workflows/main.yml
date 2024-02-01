@@ -1,1 +1,5 @@
-Just download or make Yourself a downloadable program
+name: "Advaged HTML crawler"
+navbar:
+  left:
+    - text: "File"
+    - text: "Help"
