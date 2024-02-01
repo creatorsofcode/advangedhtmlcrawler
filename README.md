@@ -1,5 +1,5 @@
-# Example Package
+# Advanged Crawler
 
-This is a Advanged Crawler made by ChatGPT and I
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+This is a Advanged Crawler made by ChatGPT and me
+[GitHub-flavored Markdown(https://github.com/creatorsofcode/advangedhtmlcrawler/)
 
